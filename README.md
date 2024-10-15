@@ -1,4 +1,4 @@
-# Bankist Site
+# Mapty
 Mapty is a web application for visualizing and tracking workouts. It uses the Leaflet library to implement the interactive map.
 
 ## How to run
