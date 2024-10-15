@@ -8,7 +8,7 @@ Mapty is a web application for visualizing and tracking workouts. It uses the Le
 ## App Features
 - Add a new workout:<br>
 	- Click anywhere on the map to add a new workout. Enter the details
-	in the form that pops up on the left-side of the website
+	in the form that pops up on the left-side of the screen
 - Interactive Map<br>
 	- Drag the map in any direction with the mouse/touchscreen.
 	- Click on any workout from the left-side list to center the map on it.
